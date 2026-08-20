@@ -1,4 +1,4 @@
-# SU2000 — Virtuality Series 2000 & Pac-Man VR (1996) Emulator
+# SU2000, Virtuality Series 2000 & Pac-Man VR (1996) Emulator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-brightgreen.svg)](#system-requirements)
@@ -191,7 +191,7 @@ Press <kbd>F5</kbd> in the launcher to perform an Emergency Engine Reset, which 
 
 Special thanks to the archivists, researchers, and community members who made this preservation effort possible:
 
-* **Claude and Gemini** — For fastest results with vibecoding.
+* **Claude and Gemini** - For fastest results with vibecoding.
 
 * **Prof. Dr. Jens-Martin Loebel** (*Hochschule Magdeburg-Stendal / Humboldt University of Berlin*) - Author of foundational 2011 research on SU-2000 restoration.
 * **Computerspielemuseum Berlin** - For preserving surviving operational SU-2000 hardware.
