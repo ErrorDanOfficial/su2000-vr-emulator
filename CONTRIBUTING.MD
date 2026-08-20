@@ -29,3 +29,8 @@ author and contributor:
 
 Please keep this attribution in derivative projects, documentation, videos,
 publications, and other materials based on this work.
+
+
+You can also contact me
+Telegram: @errordan
+Discord: @errordan
