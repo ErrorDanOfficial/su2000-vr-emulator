@@ -36,6 +36,8 @@ Because Virtuality machines used custom proprietary expansion hardware , dual Mo
 
 This project is the result of **120+ hours of continuous reverse engineering** (February, August 2026) by **ErrorDan** (Me), transforming undocumented raw firmware binaries into a functional emulator architecture capable of booting the original master disk dumps.
 
+![Pac-Man VR running](fpspacman.jpg)
+
 ![SU2000 test GUI](testguy.png)
 
 ![Hardware recognition test](ETSALLHARDWARERECOGNIZABLE.png)
